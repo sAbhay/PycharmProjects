@@ -1,0 +1,1 @@
+bot = InstaBot('procedurart', 'instabot')
